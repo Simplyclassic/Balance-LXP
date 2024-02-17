@@ -24,6 +24,11 @@ Insert your wallet addresses into the wallets.txt file, with each address on a n
 
 Run the script: Balance-LXP.py
 
+================================================================================================
+
+Balance-LXP
+
+Проверяйте баланс нескольких кошельков Linea поинты LXP (баллы Linea), используя этот скрипт на Python. Взаимодействует с блокчейном Linea через Web3 и предоставляет красочный вывод в консоли.
 
 Используем 
 Python 3.10.10 64-bit

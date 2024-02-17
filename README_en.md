@@ -19,14 +19,14 @@ Download the 'Linea_balance' folder, which contains the following files:
 
  * 'README.txt'
  * 'contract_abi.json'
- * 'Linea_Balance.py'
+ * 'Balance-LXP.py'
  * 'wallets.txt'
 
 Open the following files in Visual Studio Code:
 
- * 'Linea_Balance.py'
+ * 'Balance-LXP.py'
  * 'wallets.txt'
 
 Insert your wallet addresses into the wallets.txt file, with each address on a new line.
 
-Run the script: 'Linea_Balance.py'
+Run the script: 'Balance-LXP.py'

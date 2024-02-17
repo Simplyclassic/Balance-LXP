@@ -19,14 +19,14 @@ pip install colorama
 
  * 'README.txt'
  * 'contract_abi.json'
- * 'Linea_Balance.py'
+ * 'Balance-LXP.py'
  * 'wallets.txt'
 
 Откройте следующие файлы в Visual Studio Code:
 
- * 'Linea_Balance.py'
+ * 'Balance-LXP.py'
  * 'wallets.txt'
 
 Вставьте адреса вашего кошелька в файл wallets.txt, причем каждый адрес будет в новой строке.
 
-Запустите скрипт: 'Linea_Balance.py'
+Запустите скрипт: 'Balance-LXP.py'
